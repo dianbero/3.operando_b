@@ -1,6 +1,6 @@
 
 public class Operando3b {
 	public static void main(String[]args) {
-		System.out.println("Vamos a operar...");
+		System.out.println("Vamos a operar... de nuevo");
 	}
 }
