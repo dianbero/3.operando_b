@@ -7,6 +7,8 @@ public class Multiplicacion {
 		
 		System.out.println("Vamos a multiplicar 2x1= "+num1);
 		
+		
+		
 	}
 
 }
